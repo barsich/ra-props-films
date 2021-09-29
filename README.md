@@ -1,1 +1,2 @@
-# ra-props-films
+# ra-props-films [![Build status](https://ci.appveyor.com/api/projects/status/nb2nkyvmool4fxbg?svg=true)](https://ci.appveyor.com/project/barsich/ra-props-films)
+[GithubPages](https://barsich.github.io/ra-props-films/)
