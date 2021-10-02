@@ -1,6 +1,6 @@
-export default function Star({ id }) {
+export default function Star() {
   return (
-    <li key={id}>
+    <li>
       <svg
         fill="#D3BCA2"
         height="28"
